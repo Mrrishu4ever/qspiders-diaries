@@ -2,11 +2,13 @@
 
 > Salem, Tamil Nadu se Bangalore tak ka safar — QSpiders Hebbal ki class, dost, mentors, aur wo yaadein jo hamesha ke liye reh gayin.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-mrrishu4ever.github.io-e0932c?style=for-the-badge)](https://mrrishu4ever.github.io/qspiders-diaries/)
+
 A cinematic, scroll-driven storytelling webpage built with React (no build step — runs straight in the browser via CDN). Chapter-by-chapter journey, complete with a travelling train motif, curtain-reveal transitions, custom cursor, ambient particles, and original shayari cards.
 
 ## Live Website
 
-Read the story here: https://mrrishu4ever.github.io/qspiders-diaries/
+**Read the story here → https://mrrishu4ever.github.io/qspiders-diaries/**
 
 ## Tech Stack
 
